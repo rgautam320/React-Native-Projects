@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Firebase",
+    "slug": "Firebase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Apps/assets/logo.png",
+    "splash": {
+      "image": "./Apps/assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Apps/assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./Apps/assets/logo.png"
+    },
+    "description": "A Complete ToDo App using React Native"
+  },
+  "name": "Firebase",
+  "displayName": "Firebase"
+}

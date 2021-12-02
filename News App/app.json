@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "News App",
+    "slug": "News-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.rgautam320.NewsApp"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "description": "A Complete News Web with Categories by Rajan Gautam"
+  }
+}
