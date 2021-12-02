@@ -8,6 +8,15 @@
 4. Run `expo start`
 5. You should be good to go
 
+## List of Applications
+
+1. Firebase Auth
+2. Guessing App
+3. News App
+4. Recipe
+5. Review App
+6. ToDo
+
 ### Thank You
 
 ### Rajan Gautam

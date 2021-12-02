@@ -2,8 +2,6 @@
 
 ## Short Introduction of App
 
-You can download the ['News App.apk'] from 'https://github.com/rgautam320/News-App/blob/master/News%20App.apk' this link and run on your device.
-
 ### I. Loading Screen
 
 A Spash screen can be seen before loading the app.
